@@ -387,19 +387,4 @@ results/outputs.json
 
 ---
 
-# License
-
-MIT License
-
----
-
-# Citation
-
-If you use this project, please cite:
-
-Tanmay Pratap Singh, 2026.  
-Adaptive Verification Layer for Mitigating Contextual Sycophancy in RAG Pipelines.
-
----
-
 End of README
